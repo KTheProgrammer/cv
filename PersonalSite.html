@@ -4,24 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>K The Programmer</title>
-    <!-- css style -->
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
-
-        body {
-            background-color: powderblue;
-        }
-
-        hr {
-            background-color: white;
-            border-style: none;
-            height: 2px;
-        }
-
         img {
             height: 250px;
-        }
-        
-
+        } 
     </style>
 </head>
 <body>
