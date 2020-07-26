@@ -28,6 +28,14 @@ img {
     height: 100px;
 }
 
-#kevio {
+.K {
+    color: green;
+}
+
+.The {
     color: blue;
+}
+
+.Programmer {
+    color: red;
 }
