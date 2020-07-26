@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>K The Programmer</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" href="images/favicon.ico">
 </head>
 <body>
     <center>
