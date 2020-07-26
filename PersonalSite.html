@@ -5,21 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>K The Programmer</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <style>
-        img {
-            height: 250px;
-        } 
-    </style>
 </head>
 <body>
     <center>
-    <img src="images/creating.png" alt="K The Programmer Pic">
-    <h1>K The Programmer</h1>
+        <img src="images/creating.png" alt="K The Programmer Pic">
+        <h1>K The Programmer</h1>
     </center>
     <a href="PersonalSite.html">HOME</a>
     <a href="Contact.html">CONTACT</a>
     <hr>
-    <p><em>Creating Imagination</em>👨🏾‍💻</p>
+    <p><em>Creating Imagination </em>👨🏾‍💻</p>
     <p>I am a Fuel Hauler turned Programmer who found a passion for creating imagination.</p>
     <hr>
     <h3>Books 📚 and Learning 🤔</h3>
@@ -115,5 +110,17 @@
             </tr>                
         </tbody>
     </table>
+    <hr id="iconspace">
+    <center>
+        <h1 id="kevio">Follow Me:</h1>
+        <table>
+            <tr>
+                <td><a href="https://www.facebook.com/mikeviomcclellan"><img class="icon" src="images/facebook.png" alt="facebookLogo"></a></td>
+                <td><a href="https://www.instagram.com/y0ungkizzy/"><img class="icon" src="images/instagram.png" alt="instagramLogo"></a></td>
+                <td><a href="https://www.linkedin.com/in/mikevio-mcclellan-0504a865"><img class="icon" src="images/linkedin.png" alt="linkedinLogo"></a></td>
+                <td><a href="https://twitter.com/y0ungkizzy"><img class="icon" src="images/twitter.png" alt="twitterLogo"></a></td>
+            </tr>
+        </table>
+    </center>
 </body>
 </html>
