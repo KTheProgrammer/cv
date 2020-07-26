@@ -10,7 +10,7 @@
 <body>
     <center>
         <img src="images/creating.png" alt="K The Programmer Pic">
-        <h1>K The Programmer</h1>
+        <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>
     </center>
     <a href="PersonalSite.html">HOME</a>
     <a href="Contact.html">CONTACT</a>
