@@ -13,3 +13,21 @@ hr {
 h3 {
     color: green;
 }
+
+img {
+    height: 250px;
+    align-content: center;
+    justify-content: center;
+} 
+
+.icon {
+    height: 50px;
+}
+
+#iconspace {
+    height: 100px;
+}
+
+#kevio {
+    color: blue;
+}
