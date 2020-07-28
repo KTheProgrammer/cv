@@ -8,16 +8,22 @@
     <link rel="icon" href="images/favicon.ico">
 </head>
 <body>
-    <center>
-        <img src="images/creating.png" alt="K The Programmer Pic">
-        <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>
-    </center>
-    <a href="PersonalSite.html">HOME</a>
-    <a href="Contact.html">CONTACT</a>
-    <hr>
+    <div class="nav">
+        <a href="PersonalSite.html">HOME</a>
+        <a href="Contact.html">CONTACT</a>
+    </div>
+<div class="top-container">
+    <img src="images/creating.png" alt="K The Programmer Pic">
+     <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>       
+    <img class="cloud1" src="images/cloud.png" alt="Cloud">
+    <img class="cloud2" src="images/cloud.png" alt="Cloud">
+    <img class="cloud3" src="images/cloud.png" alt="Cloud">
     <p><em>Creating Imagination </em>👨🏾‍💻</p>
-    <p>I am a Fuel Hauler turned Programmer who found a passion for creating imagination.</p>
     <hr>
+    <p>I am a Programmer</p>
+    <hr>
+</div>
+<div class="">    
     <h3>Books 📚 and Learning 🤔</h3>
     <ul>
         <li><a href="https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_4?crid=1CLUJV7N0GGUM&dchild=1&keywords=html+and+css&qid=1595621730&sprefix=html%2Caps%2C183&sr=8-4">HTML & CSS design and build websites</a></li>
@@ -57,6 +63,8 @@
             </tr>    
         </tbody>
     </table>
+</div>
+<div class="">
 <hr>
 <h3>Skills ⭐️</h3>
     <table cellspacing="10">
@@ -111,6 +119,7 @@
             </tr>                
         </tbody>
     </table>
+    </div>
     <hr id="iconspace">
     <center>
         <h1 id="kevio">Follow Me:</h1>
