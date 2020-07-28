@@ -10,14 +10,18 @@ hr {
     width: 5%;
 }
 
+.nav {
+    text-align: right;
+    font-family: cursive;
+}
+
 h3 {
     color: green;
 }
 
 img {
     height: 250px;
-    align-content: center;
-    justify-content: center;
+    top: 100px;
 } 
 
 .icon {
@@ -30,12 +34,30 @@ img {
 
 .K {
     color: green;
+    font-family: cursive;
 }
 
 .The {
     color: blue;
+    font-family: cursive;
 }
 
 .Programmer {
     color: red;
+    font-family: cursive; 
+}
+
+.top-container {
+    text-align: center;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 50px;
+    top: 30px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 50px;
 }
