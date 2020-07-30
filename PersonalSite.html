@@ -15,12 +15,12 @@
 <div class="top-container">
     <img src="images/creating.png" alt="K The Programmer Pic">
      <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>       
-<!--     <img class="cloud1" src="images/cloud.png" alt="Cloud">
-    <img class="cloud2" src="images/cloud.png" alt="Cloud"> -->
+    <img class="cloud1" src="images/cloud.png" alt="Cloud">
+    <img class="cloud2" src="images/cloud.png" alt="Cloud">
     <img class="cloud3" src="images/cloud.png" alt="Cloud">
-    <p><em>Creating Imagination </em>👨🏾‍💻</p>
+    <p class="creating"><em>Creating Imagination </em>👨🏾‍💻</p>
     <hr>
-    <p>I am a Programmer</p>
+    <p class="program">I am a Programmer</p>
     <hr>
 </div>
 <div class="">    
