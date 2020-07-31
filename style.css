@@ -2,6 +2,10 @@ body {
     background-color: powderblue;
 }
 
+.bodyContact {
+    text-align: center;
+}
+
 hr {
     border-style: none;
     border-top-style: dotted;
@@ -72,4 +76,9 @@ img {
 
 .program {
     font-size: 25px;
+}
+
+.tableIcon {
+    margin-left: auto;
+    margin-right: auto;
 }
