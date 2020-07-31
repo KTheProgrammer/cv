@@ -121,9 +121,7 @@
     </table>
     </div>
     <hr id="iconspace">
-    <center>
-        <h1 id="kevio">Follow Me:</h1>
-        <table>
+        <table class="tableIcon">
             <tr>
                 <td><a href="https://www.facebook.com/mikeviomcclellan"><img class="icon" src="images/facebook.png" alt="facebookLogo"></a></td>
                 <td><a href="https://www.instagram.com/y0ungkizzy/"><img class="icon" src="images/instagram.png" alt="instagramLogo"></a></td>
@@ -131,6 +129,5 @@
                 <td><a href="https://twitter.com/y0ungkizzy"><img class="icon" src="images/twitter.png" alt="twitterLogo"></a></td>
             </tr>
         </table>
-    </center>
 </body>
 </html>
