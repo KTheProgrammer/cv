@@ -44,32 +44,6 @@
         </li>
     </ul>
     <hr>
-    <h3>Work Experience 👷🏾</h3>
-    <table>
-        <thead>
-            <tr>
-                <th>Dates</th>
-                <th>Work</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>2010-2013</td>
-                <td>Senior Correctional Officer 👮🏾‍♂️</td>
-            </tr>
-            <tr>
-                <td>2013-2020</td>
-                <td>Truck Driver 🚛</td>
-            </tr>    
-        </tbody>
-    </table>
-</div>
-<div class="">
-<hr>
-<h3>Skills ⭐️</h3>
-    <table cellspacing="10">
-        <tbody>
-            <tr>
                 <td>HTML</td>
                 <td>⭐️⭐️⭐️⭐️⭐️</td>
                 <td>CSS</td>
