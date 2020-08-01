@@ -1,9 +1,11 @@
 body {
-    background-color: powderblue;
+    background-color: white;
+    margin: 0;
 }
 
 .bodyContact {
     text-align: center;
+    background-color: powderblue;
 }
 
 hr {
@@ -17,6 +19,8 @@ hr {
 .nav {
     text-align: right;
     font-family: cursive;
+    background-color: powderblue;
+    font-size: 20px;
 }
 
 h3 {
@@ -39,22 +43,26 @@ img {
 .K {
     color: green;
     font-family: cursive;
+    font-size: 50px;
 }
 
 .The {
     color: blue;
     font-family: cursive;
+    font-size: 50px;
 }
 
 .Programmer {
     color: red;
-    font-family: cursive; 
+    font-family: cursive;
+    font-size: 50px;
 }
 
 .top-container {
     text-align: center;
     position: relative;
     padding-top: 500px;
+    background-color: powderblue;
 }
 
 .cloud1 {
@@ -81,4 +89,16 @@ img {
 .tableIcon {
     margin-left: auto;
     margin-right: auto;
+}
+
+.iconsBGColor {
+    background-color: powderblue;
+    text-align: center;
+}
+
+.code-img {
+}
+
+.skillLevel {
+    
 }
