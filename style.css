@@ -101,8 +101,9 @@ img {
 }
 
 .code-img {
+    width: 100%;
 }
 
-.skillLevel {
-    
+.code-img2 {
+    width: 70%;
 }
