@@ -53,7 +53,7 @@
     <h2>Skills ⭐️⭐️⭐️⭐️⭐️</h2>
     <table>
         <tr>
-            <td><img class="code-img" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="code-img"></td>
+            <td><img class="code-img2" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="code-img"></td>
             <td><h3>Design & Development</h3>
                 <p>I started taking an interest in building and interacting with software when I wanted
                     to know how games and websites where created.</p></td>
