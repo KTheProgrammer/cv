@@ -65,6 +65,7 @@ img {
     position: relative;
     padding-top: 500px;
     background-color: powderblue;
+    width: 100%;
 }
 
 .cloud1 {
@@ -96,6 +97,7 @@ img {
 .iconsBGColor {
     background-color: powderblue;
     text-align: center;
+    width: 100%;
 }
 
 .code-img {
