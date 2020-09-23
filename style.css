@@ -29,35 +29,39 @@ h3 {
     color: green;
 }
 
-img {
-    height: 300px;
-    top: 100px;
+.ktheprogrammerlogo {
+    height: 40%;
+    width: 40%;
 } 
 
 .icon {
     height: 50px;
 }
 
+.icongit {
+    height: 40px;
+}
+
 #iconspace {
-    height: 100px;
+    height: 50px;
 }
 
 .K {
     color: green;
     font-family: cursive;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .The {
     color: blue;
     font-family: cursive;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .Programmer {
     color: red;
     font-family: cursive;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .top-container {
@@ -65,6 +69,7 @@ img {
     position: relative;
     padding-top: 500px;
     background-color: powderblue;
+    padding-bottom: 10px;
     width: 100%;
 }
 
@@ -72,12 +77,18 @@ img {
     position: absolute;
     right: 50px;
     top: 200px;
+    width: 30%;
 }
 
 .cloud2 {
     position: absolute;
     left: 50px;
     top: 0px;
+    width: 30%;
+}
+
+.cloud3 {
+    width: 30%;
 }
 
 .creating {
@@ -97,13 +108,14 @@ img {
 .iconsBGColor {
     background-color: powderblue;
     text-align: center;
+    padding: 30px 0 20px;
     width: 100%;
 }
 
-/* .code-img {
-    width: 100%;
-} */
+.code-imgBook {
+    width: 40%;
+}
 
-.code-img2 {
-    width: 70%;
+.code-imgComputer {
+    width: 80%;
 }
