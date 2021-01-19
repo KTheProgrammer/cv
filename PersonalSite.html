@@ -127,7 +127,7 @@
                 <td><a href="https://github.com/KTheProgrammer"><img class="icongit" src="images/github.png" alt="gihubLogo"></a></td>
             </tr>
         </table>
-    <p>&copy; 2020 K The Programmer</p>
+    <p>&copy; 2021 K The Programmer</p>
     </div>
 </body>
 </html>
