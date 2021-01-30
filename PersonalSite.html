@@ -13,7 +13,7 @@
         <a href="Contact.html">CONTACT</a>
     </div>
 <div class="top-container">
-    <img class="ktheprogrammerlogo" src="images/ktheprogrammer.png" alt="K The Programmer Pic">
+    <img class="ktheprogrammerlogo" src="images/kevio.png" alt="K The Programmer Pic">
      <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>       
     <img class="cloud1" src="images/cloud.png" alt="Cloud">
     <img class="cloud2" src="images/cloud.png" alt="Cloud">
