@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>K The Programmer</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </head>
-<body style="background-color: powderblue;">
+<body>
     <nav style="margin-bottom: 0px;" class="navbar">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -21,31 +21,15 @@
             </ul>
         </div>
     </nav>
-    <div class="info">
-        <h1>Contact</h1>
-        <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>
-            <table class="tableIcon">
-                <tr>
-                    <td><img style="height: 100px;" class="icon" src="images/iphone.png" alt="iphone"></td>
-                    <td>731-212-9365</td>
-                </tr>
-                <tr>
-                    <td><a href="mailto:mikeviomcclellan@yahoo.com"><img style="height: 100px;" class="icon" src="images/Googlemail.png" alt="Googlemail"></a></td>
-                    <td><---Email Me:</td>
-                </tr>
-            </table>
-        <hr>
-        <form action="mailto:mikeviomcclellan@yahoo.com" method="POST" enctype="text/plain">
-            <label>Your Name:</label>
-            <input type="text" name="yourName" value=""><br>
-            <label>Your Email:</label>
-            <input type="email" name="yourEmail" value=""><br>
-            <label>Your Message:</label>
-            <textarea name="yourMessage" cols="30" rows="10"></textarea><br>
-            <input type="submit" name="">
-        </form>
+    <div class="top-container">
+        <img class="ktheprogrammerlogo" src="images/Transparent.png" alt="K The Programmer Pic">
+        <h1><span class="K">K </span><span class="The">The </span><span class="Programmer">Programmer</span></h1>       
+        <img class="cloud1" src="images/cloud.png" alt="Cloud">
+        <img class="cloud2" src="images/cloud.png" alt="Cloud">
+        <img class="cloud3" src="images/cloud.png" alt="Cloud">
+        <p class="creating"><em>Creating Imagination </em>👨🏾‍💻</p>
+        <p class="program">I am a Programmer</p>
     </div>
-    <hr id="iconspace">
     <div class="iconsBGColor">
         <table class="tableIcon">
             <tr>
@@ -56,7 +40,7 @@
                 <td><a href="https://github.com/KTheProgrammer"><img class="icongit" src="images/github.png" alt="gihubLogo"></a></td>
             </tr>
         </table>
-        <p>&copy; 2021 K The Programmer</p>
-    </div> 
+    <p>&copy; 2021 K The Programmer</p>
+    </div>
 </body>
 </html>
