@@ -5,6 +5,8 @@ body {
     margin-top: 0px;
 }
 
+
+
 .bodyContact {
     text-align: center;
     background-color: powderblue;
@@ -37,7 +39,20 @@ h3 {
 .ktheprogrammerlogo {
     height: 40%;
     width: 40%;
+    animation: myPic 1s ease 0s 1 normal forwards;
 } 
+
+@keyframes myPic {
+    0% {
+      opacity: 0;
+      transform: rotate(-540deg) scale(0);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: rotate(0) scale(1);
+    }
+  }
 
 .icon {
     height: 50px;
@@ -80,9 +95,20 @@ h3 {
 
 .cloud1 {
     position: absolute;
-    right: 50px;
+    right: 110px;
     top: 200px;
     width: 20%;
+    animation: myAnim 5s ease-out 0s infinite alternate none;
+}
+
+@keyframes myAnim {
+    0% {
+      transform: translateX(100px);
+    }
+  
+    100% {
+      transform: translateX(0);
+    }
 }
 
 .cloud2 {
@@ -90,10 +116,12 @@ h3 {
     left: 50px;
     top: 0px;
     width: 20%;
+    animation: myAnim 5s ease-out 0s infinite alternate none;
 }
 
 .cloud3 {
     width: 20%;
+    animation: myAnim 5s ease-out 0s infinite alternate none;
 }
 
 .creating {
